@@ -5,6 +5,7 @@ using UnityEngine;
 public class World {
 
 	Tile[,] tiles;
+
 	int width;
 
 	public int Width {
@@ -67,6 +68,7 @@ public class World {
 			int numY = (Random.Range (0, height));
 
 			//TODO: Add check to see if neighbouring tile is a road, if it is then skip this iteration.
+
 			for (int x = numX; x < width; x++) {
 				tiles [x, numY].Type = Tile.TileType.Road;
 			}
