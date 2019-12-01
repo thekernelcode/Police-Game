@@ -1,0 +1,24 @@
+    Thank you for registering To Serve and To Protect!
+
+    The current registered version as of 5/19/94 is 1.1.  If you
+    are not familiar with it, see CHANGES.DOC for details.
+
+    Most of what the registered version includes is in the on-disk
+    manual.  However, there are some things that are not:
+
+        .  Saving a map:  To save a map that you like you can hit
+           F5-F9 to save a map.  F5 will save it as map #1, F6 as
+           map #2, etc.  You can than load this map with the user
+           made option in the main menu.
+
+         . The registered version now includes some cheats during
+           the game to help you along.  To use them, just type the
+           cheat's word during the game.  If you misspell it, wait a
+           little for it to clear.
+
+           MONEY - Adds 100 "dollars".
+           OPN   - Increases public opinion
+           CRAT  - Decreases crime rate
+           RIOT  - Starts riots
+           FCR   - Adds five officers
+           PMAN  - Adds five patrolmen

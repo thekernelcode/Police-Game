@@ -1,0 +1,39 @@
+Hill Street Blues - PC, Version 1.00
+Release by REKALL
+
+
+
+Additional information, not printed in the manual:
+
+
+* Installing Hill Street Blues to hard disk
+  The following example will install Hill Street Blues on to hard disk C:
+  in the directory HSB.
+
+	c:
+	md \hsb
+	cd \hsb
+
+Then for every floppy disk, type:
+
+	xcopy	a:\*.* /s /v
+
+	or
+
+	xcopy	b:\*.* /s /v
+
+depending on the drive that the floppies are in.
+
+
+
+* When saving a game, it is saved to the current directory on the default
+  drive; If the game is run from floppy disks, the saved games will be saved
+  on floppies. If the game is run from hard disk, the saved games will be saved
+  onto the hard disk.
+
+
+Additional game keys:
+
+F10 ........... Abort game, after confirmation.
+Alt+F10 ....... Return to DOS immediately
+

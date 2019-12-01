@@ -1,0 +1,17 @@
+If you have problems with locking up in the game, it is due to a
+sound card incompatibility.  To remedy this situation, try the
+following:
+
+ . Make a clean boot disk free of any TSR's.
+
+ . Turn off the Weather option.
+
+ . Turn off the sound by deleting SOUND.CFG and selecting No Sound.
+
+ . Skip through the introduction.
+
+Also, when the game is loading and it does not want to continue,
+hit the space bar to regenerate a map.  This may work but it is
+unlikely.
+
+We are sorry for any incovieniences this may cause.

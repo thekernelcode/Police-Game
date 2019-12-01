@@ -1,0 +1,1414 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            To Serve and To Protect
+
+                                  Version 1.1
+
+                                 Vivid Software
+
+INTRODUCTION
+
+The police chief mused over his current predicament.  His city
+had been on the edge of riots for weeks which had started when a
+failed police assault on innocent building sent the city into
+riots.  Currently, all of his available units were being sent back
+to base where they could be outfitted with riot gear.  Meanwhile,
+helicopters flew over the city keeping watch on the rioters and
+the occasional looting.  It was going to be a long winter, and if
+the rioters did not stop soon, he was going to have to use the
+heavy weapons.  He also knew he would never reach the goal of a
+moderate public opinion and crime rate.
+
+This situation could not only happen in real life but also in
+this game, To Serve and To Protect.  You will do many of the
+tasks of a police dispatcher like deploying units and responding
+to crimes.  You will also, during the course of the game, perform
+police chief duties like budgeting and personnel.  Finally, you
+can also do many things neither does, like deciding to build new
+buildings, judging crimes, and taxing citizens.
+
+DISCLAIMER:
+
+Unfortunately, I am required to give this disclaimer:
+
+The author makes no warranty of any kind, expressed or implied,
+with regard of this software or documentation. The author shall
+not be liable in any event for incidental or consequential
+damages in connection with, or arising out of, the furnishing,
+performance, or use of the software.
+
+TECH SUPPORT
+
+We can be reached by mail at 2940 Arizona Ave, Yuma, AZ, 85364.
+Also, we can be called after 3 pm MST at (602) 344-2075.  Finally,
+I can be reached on the Nightline BBS at (602) 329-0691.
+
+HOW TO USE THIS MANUAL
+
+There are four areas to this manual.  The first shows how to
+to set up a new game.  The second chapter is a tutorial which
+will help you get used to concepts of the game. The third chapter
+shows how to do various tasks in the game.  The fourth chapter
+shows how to play the game and gives various hints and tips.
+
+If you wish to just jump right in and play, you can probably just
+skim over chapter three and use it as a reference to the various
+icons in the game.  Chapter four will probably have to be read
+in depth, however.
+
+Appendix C now describes the six cheats you can use during the game
+in the Registered version.
+
+CHAPTER 1
+SETTING A UP NEW GAME
+
+Changing and Setting the Sound Setup
+
+After you have performed the initial installation, or if this
+is your first time playing To Serve and To Protect, you can change
+to sound card setup.
+
+To change the setup, follow this step:
+
+1.   Go to the To Serve and To Protect subdirectory. For
+     instance, if you installed To Serve and To Protect in the
+      \TSTP subdirectory, you would type CD\TSTP and press
+     Enter.  Then, type the following: DEL SOUND.CFG.
+
+If this is your first time playing, follow these steps:
+
+2.   Type TSTP and press Enter.
+
+3.   The Sound Setup screen will appear. Click on the sound card
+     that you have and then click on Continue. Your sound card
+     setup is now changed.
+     
+Welcome to To Serve and To Protect!
+
+In the beginning, an introduction will show.  To abort the
+introduction, just hit any key.  The Main Menu will appear.
+
+The Main Menu
+
+The main menu consists of four "buttons": Load Game, New Game,
+Configuration, and Exit to Dos.
+
+Loading A Game
+
+Loading a game is simple.  Just click on one of the saved games
+in the middle of the screen (only games in use will appear).
+Then click on done and the game will be loaded.
+
+Starting A New Game
+
+Starting a new game can be very simple or it can be complicated.
+In the new game area, there are several areas where options can
+be set. These include Scenario, Map, Difficulty, and Variants.
+In order to start a game, a scenario and a difficulty level must
+be set.  To start the game, click on "Start".  Notice that you
+must have a difficulty set and (in the registered version) a 
+scenario. To cancel and return to the main menu, click on 
+"Cancel".
+
+Scenarios
+
+Scenarios set the victory conditions of the game.  In some
+scenarios, the victory conditions include having a certain
+level of public opinion.  In others, the victory condition may
+be to stop rioting.  Scenarios also set some beginning factors    
+in the game like rioting.  Below is a description of each of
+the seven scenarios included with To Serve and To Protect.
+Each scenario lasts one month long.  Only scenario 1 is in
+the shareware version.
+
+Scenario 1, Normalcy:  This scenario is simple.  Maintain a
+public opinion of 50% or higher and a crime rate of 50% or
+lower. Use whatever methods at your disposal to achieve these
+goals.
+
+End Public Opinion: 50% End Crime Rate: 50%
+
+Scenario 2, Shortage:  The city in which you control has
+always had problems recruiting people to serve as police
+personnel. Therefore, you are limited to a maximum of 20
+officers and 40 patrolmen.  Because of these limits, no
+officers and patrolmen are assigned at the beginning of the
+game and you must assign them yourself.
+
+End Public Opinion: 50% End Crime Rate: 50% (REG. VERSION ONLY)
+
+Scenario 3, Martial Law:  The city has been declared for
+various reasons to be in a state of martial law.  As a result,
+only an aggressive posture is allowed.  A description of the
+aggressive posture and its effects is in the third chapter.
+
+End Public Opinion: 50% End Crime Rate: 50% (REG. VERSION ONLY)
+
+Scenario 4, Riot Recovery: The last police chief who
+controlled the city was a bumbling idiot.  By the time the
+political leaders finally pressured him out of office, the
+city was in the middle of heavy riots.  As the newly appointed
+police chief, it is your job to stop the riots and get the city
+back under control.  The Riot and Public Opinion variants have no
+effect on this scenario.
+
+End Public Opinion: 50% End Crime Rate: 50% (REG. VERSION ONLY)
+
+Scenario 5, New Force:  The city in which you control had
+always used a volunteer police force.  But because of the
+recent influx of drugs, a large professional police force is
+needed.  Therefore, at the start, you will have no police
+related buildings and you will have no vehicles.  You are
+essentially helpless until you start building.  The map
+municipal settings and the vehicle stock variants have no
+effect on this scenario.  It is recommended that you increase
+the amount of money and personnel that you get in the variants
+section.
+
+End Public Opinion: 50% End Crime Rate: 50% (REG. VERSION ONLY)
+
+Scenario 6, Beverly Hills:  As a top socialite in Beverly
+Hills, you are appointed police chief because of your
+connections.  Your job is mainly concerned with having a
+high public opinion so that you can impress your friends.
+Maintaining a decent crime rate is not a priority.
+
+End Public Opinion: 90% End Crime Rate: 20% (REG. VERSION ONLY)
+
+Scenario 7, Drug Hideout:  The city you control has become a
+haven for the drug lords.  You must destroy at least five drug
+HQs.  To accomplish this, build a force of highly trained assault
+vans and a large number of detectives and informants.
+
+End Public Opinion: 50% End Crime Rate: 50% (REG. VERSION ONLY)
+
+Map Generator Setup (REGISTERED VERSION ONLY)
+
+The map section of the New Game area sets the random map
+generator.  The map generator can be set to three modes: random,
+and manual and user-made.  To change the mode from the default 
+random mode, click on the Random button.  When the map generator is 
+set to manual, you can change the percentages of five areas in the
+random map generator. A description of the five areas follows:
+
+Residential:  Residential areas on the map include mainly
+houses and town houses.  Unlike other areas, the more
+Residential areas there are in a map, the more citizens
+there are in the city, and the more taxes you can get.
+
+Commercial:  Commercial areas contain mainly stores,
+restaurants, billboards, and gas stations.
+
+Municipal:  This includes pre-built police stations, training
+centers, community centers, courthouses, police academies,
+prisons,  and rehabilitation centers.  This has no effect in the
+scenario number 5, "New Force".
+
+Undeveloped:  Undeveloped areas include abandoned buildings and
+empty slots which are suitable for building new police   
+buildings.
+
+Other:  Other includes parks, community swimming pools, and  
+trailer parks.
+
+There are some rules for setting the random map generator.  These
+include:
+
+ù    Commercial area percentages may not exceed 50%.
+
+ù    The sum of municipal and undeveloped areas may not be lower
+     than 2%.
+
+ù    The sum of municipal and undeveloped areas may not be higher
+     than 10%.
+
+ù    The sum of all areas may be lower than 100%, but it may not
+     be higher than 100%.
+
+The user-made option allows you to load a map that you have saved
+while playing the game.  There are five slots to choose from.
+
+Difficulty
+
+There are 12 difficulty levels.  They range from level one
+which is the easiest and level twelve which is the hardest.  The
+difficulty levels not only effect things such as starting money,
+starting personnel, starting crime rate and public opinion, but
+many other factors.  A description of the differences between the
+difficulty levels is in Appendix B: The Difficulty Levels.
+
+Variants (REGISTERED VERSION ONLY)
+
+The six areas in the variants area changes factors at the
+beginning the game that would otherwise be set by the
+difficulty levels.  So, for example, if you want a challenge
+but don't want to have to worry about money, you can set the
+difficulty to level 12 and the money variant to +2000.  This
+allows the game to be more suited to doing what you enjoy.
+No variants need to be set in order to start a game. The six
+areas of variants are described below.
+
+Money:  In the money section you can change the amount of money
+you start with.  The amounts of +500, +1000, +2000 is the amount
+of money you will get in addition to whatever the  difficulty
+level gives you.  To see the amount of money a particular
+difficulty level gives, see Appendix B: Difficulty Levels.  The
+money option "No Money" will set the amount of money that you
+start with to 0 regardless of difficulty level.
+
+Personnel:  Here you can change the amount of personnel you
+start with.  The +5O, +15P selection adds 5 officers and 15
+patrolmen to whatever the difficulty level gives you. The
++10O, +20P and +15O, +30P also do the same, but in respective
+amounts.  To see the amount of personnel each particular
+difficulty level gives you, see Appendix B: Difficulty Levels.
+The personnel option "No Extra" will set the amount of personnel
+that you start with to 0 officers, 0 patrolmen regardless of
+difficulty level.  The personnel option has no effect when
+Scenario 2, "Shortage" is selected.
+
+Civilians:  New in version 1.1, this allows you to change the
+maximum number of civilian cars on the map.  Low sets the
+number to 15, Medium to 35, and High to 60-70 depending on
+the amount of police vehicles that you have.  Be aware that
+when it is set to low the game will be faster and that when
+it is set to high it will be slower.  The shareware version
+defaults to Low.
+
+Public Opinion:  There are 4 choices in the public opinion
+area: No change, High, Medium and Low.  High sets the public
+opinion to 80%, Medium sets the public opinion to 50%, and Low
+sets the public opinion to 20%.  This option has no effect in
+Scenario 4, "Riot Recovery".
+
+Crime Rate:  There are 4 choices in the crime rate area: No
+change, High, Medium and Low.  High sets the crime rate to
+80%, Medium sets the crime rate to 50%, and Low sets the crime
+rate to 20%.
+
+Vehicle Stock:  The vehicle stock is the amount of vehicles
+that are already in pre-built buildings.  This option changes
+the default number of vehicles assigned to a police station.  To
+see the number of default vehicles for a particular difficulty 
+level, see Appendix B: Difficulty Levels.
+
+Random Events: Near the start button are is the random event
+button, or Rd. Ev.  When toggled on, random events happen
+sporadically through the game and can do random good things and
+random bad things to your police department.
+
+Configuration
+
+The configuration area is where you can change certain options to
+fit your liking.  On the bottom of the screen are three
+buttons labeled Cancel, Done, and Save.  Cancel exits out of
+the configuration menu without changing any options.  Done
+exits out of the menu with the currently selected options. Save
+saves these options to disk. Above these three buttons are the 
+options.  Clicking on them will toggle them on and off.  Below is 
+a list of the options and what they do when toggled on.
+
+Weather:  With weather toggled on, occasional rain and snow
+storms will occur.  Also, the differences between day and night
+will be shown.
+
+Stoplights:  When stoplights are toggled on, vehicles will stop
+at red lights and stop signs.
+
+Limited Vision:  Limited vision means that only cars that are
+within range of a police vehicle or building can be seen.  With
+limited vision off, every vehicle can be seen.
+
+Border Scrolling:  When border scrolling is on, the large map
+during the game will scroll when the mouse is at the extreme
+edges of the screen.
+
+Sound: When this is on, sound will be too.  Be aware that sound
+will play only if the TSTP speech pack is in the same directory.
+
+CHAPTER 2
+TUTORIAL
+
+    This chapter will give an example as to how to play the game.
+Since events happen randomly, an example of dealing one cannot be
+given in this chapter.  For tips on how to deal with events, see
+chapter 4.
+
+    The first step is to load the tutorial.  At the main menu,
+click on "Load Game".  Then click on saved game number one and
+Load.  This will load the tutorial.
+
+    When the game starts several general areas can be seen.  One
+is the big map which shows your city enlarged.  This takes up the
+majority of the screen.  On top of this is the icon bar and above
+the icon bar is the menu bar.  To the right of the big map is a
+empty blue rectangle.  This area is where cars will be controlled.
+Below the big map is two other blue rectangles.  The left
+rectangle is where various miscellaneous items are controlled and
+the other rectangle is where information is displayed and can be
+reacted to.
+
+    There are many concepts that should you be aware of.  Every
+building and car in TSTP requires personnel.  There are two types
+of personnel.  Guys with white shirts and ties are officers while
+the guys in blue are patrolmen.  You can think of the officers
+as super patrolmen.  They can do everything (except for foot
+patrols) that a patrolman can.  Patrolmen can do everything an
+officer can except for fly a helicopter.  Also, the objective
+of the game is usually to get a certain amount of public opinion
+and a crime rate.  Your crime rate and opinion are displayed in
+a red box with a C and O in it.  The closer the bar is to the
+C or O the less that rating is.  If it is half light grey and
+half dark grey, then that rating is 50%.  The blue lines are
+your goals: have a crime rate to the left of the blue line and 
+a opinion to the right of the blue line.
+
+    Notice the small map in the lower right corner.  The dark and
+light gray areas are the city street map and buildings.  The brown
+squares on the map are empty areas and the green squares are your
+police related buildings except for police stations, which are
+represented by blue squares.  The white dots are civilian
+vehicles.  Finally, the white square shows where your big
+map is centered on in your city.
+
+    Notice that this square is centered on a police station.  If
+you look in the center of the big map, you will see the police
+station.  It is a blue building with "PD" on the roof and a
+parking lot next to it.  Click on it.  This will display the
+police station in the miscellaneous rectangle in the lower left
+hand corner.  This is how you control police-related buildings.
+
+    This display contains a lot of information: notice that it is
+police station 1.  To the left is the personnel that the police
+station uses (4 patrolmen and 1 officer).  Below this are three
+squares that show each police vehicle in the station, its unit ID,
+the weapons each car uses, and the personnel assigned to each
+vehicle.
+
+    Below it are two upgrade icons.  Click on the left one which has
+a computer on it.  This gives the station a crime lab.  Since this
+will clear the miscellaneous area, click on the police station again.
+The other icon is a helicopter pad.  To the right of these icons are 
+the foot patrols.  Click on plus until the number reaches its maximum
+(8).  This will increase the visual range of the police station.
+
+    To control the first car in the station (Unit 1/1), click on
+its box. This will change the bottom row of icons.  Click on the
+second icon from the left. This changes the vehicle's weapon.
+Click on the third icon to change it back to a pistol.
+Tap the fourth button from the left to assign another officer to
+the car.  You can take it off or assign patrolmen to the car with
+these buttons.  To deploy the car, click on the first button from
+the left.
+
+    You will notice that the police car is deployed.  It is across
+the street from the station.  Move the mouse over the car and you
+will notice that the mouse cursor changes.  Click now to select
+this car.  You can now control this police car. It is also possible
+to click on civilian cars to gain information on them.  Notice the
+information presented in the blue window to the left of the big map.
+On top it tells the year, make, personnel assigned, and unit
+designation.  Below this are twelve icons that you can control the
+car with.  Below that are its skill, morale, and fatigue ratings.
+Finally, on the bottom, is the speed of the car which reads "0".
+
+    To move the car, click on the first button in the second row of
+icons.  Click on northwest corner of the small map.  This will
+change the big screen.  Click on one of the streets on the big
+map.  Then, on the small map, change the big map location to the
+previous location over the police station.  You will notice that 
+the car has started to pull out into the street and move.  
+Increase its speed to 60 by clicking on the rightmost "5" in the
+speed area.
+
+    To change the speed of the game, click on the plus button next 
+to the "2 sec" on the icon row.  This will increase game speed.  
+Increase it to "1 min".  To slow it back down, click on the right 
+mouse button.  This button defaults the game speed to 8 seconds.
+
+    Getting back on the police car, click on the stop sign located 
+next to the "move to" button (2nd row, 2nd button).  This will 
+stop the car.  Then click on the button on the row below the stop
+sign.  This will tell the car to return to its assigned police
+station.  Be aware that it is not necessary to stop the car in
+order to give it an order to return home.  Be sure to read chapter
+2 to understand what the other icons do.
+
+    Now let us build a new police building.  To do this, click on
+the first button from the left on the icon row on the top of the
+screen.  This changes the miscellaneous area to a building 
+construction screen.  Notice that the seven types of buildings are 
+displayed.  We want to build a courthouse, so click on the second 
+building from the left.  Next we must choose a building site.  Click 
+on the "Site +" button. This will change the big map to center on 
+the construction site. We cannot build the courthouse here because 
+the site is only 4 squares big (it is the abandoned building in the
+center of the screen).  We need a site with 9 squares.  Click on the
+"Site +" button again.  This site is also 4 squares.  Click on the 
+"Site +" button once more.  This new site (a fenced in abandoned lot) 
+is 9 squares big.  To begin construction, click on the hammer icon.  
+Notice that the building will not be immediately built.  It will be 
+constructed over a two day period.
+
+    We will now want to buy a new police car.  Click on the buy
+new car icon (second from left).  This will again change the
+miscellaneous area.  Click on the motorcycle (first button).  Then
+we must choose a police station to assign the motorcycle to.  Click
+on number one (there are four police stations).  Then click on the
+"Buy" button.
+
+    You should man every new vehicle you buy.  To do this, go to
+the police station (it is the one that we deployed a car from).
+Click on it and you will notice a new motorcycle (Unit 1/4).  Click 
+on it's box and click on the patrolmen (blue officer) + button.  This
+will assign a person to the bike.  Notice that since it is a
+motorcycle, only one person can be assigned.
+
+    Now we will change the overall police posture.  This button is 
+located to the right of the buy new car icon.  You can cycle
+through the three postures: passive (officer with hand at side),
+normal (officer with hand over gun), and aggressive (officer with 
+gun drawn).  For now, let's leave the posture on normal.
+
+    The icon next to posture is the car follow lock.  Clicking on
+it will keep the screen centered on the currently selected vehicle.
+To the right of this you can change assigned building personnel much 
+like you can to car personnel.  Click on this icon.  This will change 
+the big map to a personnel screen that lists all your police buildings.  
+Next to this are control icons, and next to these icons are the assigned
+personnel. Notice the redlines next to the personnel. This is the
+required number of personnel in order for a building to function.
+All your buildings now have the minimum number of people in order
+to function.  Click on the "+ patrolman" button on community center 
+number 1.  Since this is over the number of required personnel to operate 
+the building, it will increase the effect of the community center on the 
+community.  Now click on the "norm" button next to the community center.  
+This will automatically assign the minimum number of personnel to the 
+station.  In this case, it took off the patrolman we just assigned.  Now 
+click on "Exit".
+
+    Next to the personnel icon is the budget icon.  Click on it.
+Budgets are compounded every four days, but here you can change
+its settings before it compounds.  Notice the list of income and
+expenses.  Click on the "Tax -" button.  This will decrease the
+tax rate.  This will slow the decrease in public opinion that
+taxes have on the community.  Click on "Exit".
+
+    The button next to the budget controls the mode the small map
+mode.  You can cycle through map modes.  The first is normal, the
+second displays area crime rate.  The third displays visual range
+of police units and buildings as red diamonds.  Any car that is
+not in a diamond cannot be seen.  Cycle the small map back to
+normal.
+
+    The button next to this brings up the special assignments 
+screen in the miscellaneous area.  Click on the "+ officer" button 
+on the Anti-Drug line.  This will increase the number of officers
+assigned to Anti-Drug programs which help decrease the crime rate.
+Now click on done.
+
+    This concludes the tutorial.  For more tips on gameplay, see 
+chapter four.
+
+CHAPTER 3
+HOW TO DO THINGS IN THE GAME
+
+The Main Screen
+
+After starting a new game, and after loading it, you will be
+taken to the main screen.  Below is a description of the areas
+in the main screen.
+
+Top Line
+
+The Top Line is where the two "pull-down" menus are located.  To
+access the pulldown menu, click and hold down the left mouse
+button on the word File or the word Options.  This accesses their
+respective menus.
+
+File Menu
+
+In this menu you can do three things: Save Files, End the Game
+and Exit to Dos.  They can be accessed by releasing the mouse
+button while the option is highlighted. Save games is easy to
+use: click on the slot you wish to save at, and then click on Save.  
+End Game will first confirm by asking you if you really want to do
+this and then it will take you to the main menu.  Exit to Dos exits
+the game; a confirmation of the command will be asked.
+
+Options
+
+This toggles on and off the same options that were also
+described in chapter 1.  To change an option, just release the
+mouse button when the mouse cursor is on the option you want to
+toggle.
+
+Top Icon Line
+
+The top icon line has many icons that have important functions
+such as budgeting and personnel.  A description of each icon, from
+left to right on the icon bar and what it does follows on the next
+few pages.
+
+The first icon, the construction icon, brings up the construction
+screen in the miscellaneous area.
+
+The second icon, the vehicle purchase icon, brings up the vehicle
+purchase screen in the miscellaneous area.
+
+The third icon controls the overall police posture.  There are
+three modes: passive (an officer with his hand at his side),
+normal (an officer with his hand on his gun), and aggressive
+(an officer with his gun drawn). Public opinion between the three
+postures varies: the public opinion improves during a passive
+posture, while public opinion erodes during an aggressive opinion.
+However, crime rate goes up during a passive posture, while the
+crime rate goes down during an aggressive posture.  Also, searches
+of citizens during blockades and stops is more effective during 
+aggressive postures, but public outrage for stopping someone is
+increased.  Finally, during a passive posture only, the police 
+will perform random "goodwill" missions like picking up citizens 
+and driving them places.  For every random
+goodwill mission, public opinion increases.  However, this denies 
+use of a vehicle unless you want to dropoff the citizen, in which
+the public opinion will then go down.  This button has no effect 
+in the Martial Law scenario, when posture is always aggressive.
+
+The next button is the "lock" button.  When it is depressed, the
+large screen will automatically scroll so that the current unit is
+in the center of the screen.
+
+The next button accesses the main personnel screen.
+
+The next button accesses the main budget screen.
+
+The next button controls the mapmode.  This is the mode of the
+small map in the lower right corner.  There are three modes: normal
+(a road), crime rate (a gun), and visibility (an eye).  The normal
+mode shows the map and visible cars, police vehicles, and police
+buildings.  The crime rate mode shows local area crime rates.  In
+this mode, green is the lowest, yellow and clear is in between and
+red are the highest crime rate areas.  You can use this map to
+better decide where to deploy your units.  Certainly it would be
+better to heavily patrol a red area than a green area.  The last
+mode, visibility, shows the visible area of all your vehicles and
+buildings.  This is mode is also important deciding where to deploy
+your units.
+
+The next button accesses the special personnel allocation screen.
+The special personnel allocation screen is where you can assign
+informants, detectives, and public relations personnel.
+
+The next button controls the special option screen.  In the special
+option screen you can do special things like take bribes.
+
+The last button is the step button.  When the step button is
+depressed, the time speeds by until a new event happens.  ATTENTION!
+You cannot control anything while stepping! To stop "stepping", just
+click on the step button again.
+
+
+
+Scale
+
+The scale is the pace at which the game runs.  Besides
+"stepping", there are six other speeds.  These include 1 second,
+2 seconds, 4 seconds, 8 seconds, 30 seconds, and 1 minute.  The
+name of these speeds represents their scale.  To increase the
+speed, click on the plus button.  To slow the game speed, click
+on the minus speed.  To set the game to 8 seconds, click on the
+right mouse button when it is not on the small map.  This serves
+as a useful "panic button".
+
+Time
+
+This is the current game time and date.  The date lets you know
+how much time until the end of the scenario is reached (the game
+will end after 31 days).  The only effect time has in the game is 
+the fact that crime is more likely to happen at night.  You can
+click on this area and it will change to show you time to go until
+the end of the scenario.
+
+Unit Control Screen
+
+In this area, you can control the police vehicles under your
+control once they are in the large map.  To select a vehicle,
+click on it.  You can also click on civilian vehicles, but only a
+vehicle type will show plus the vehicle's speed and its passenger
+number.  Each area of the unit control screen will be now
+described.
+
+
+Vehicle Type
+
+At the top is the vehicle's type.  If the vehicle is a civilian
+vehicle, this area will display the model make and year.
+
+Current Task
+
+This area shows what the vehicle is currently doing.
+
+Unit Identification
+
+This area displays (you guessed it) the unit's identification.
+The first number is the vehicle's assigned police station and
+the second number is the vehicles place.  Therefore, a unit with
+an identification of "Unit 3/4" would be the fourth vehicle at
+police station number three.
+
+Passengers
+
+If the car is a passenger car, it will display the number of
+civilians here.  This is important if you have to arrest the 
+people in the car, for everyone in the car will have to fit
+into the arresting car.  If they cannot fit, they will be
+released on the street.  This makes the van's high carrying
+capacity much more valuable.
+
+If the car is a police vehicle, the number of officers and
+patrolmen are shown.  Left over space in a vehicle is
+represented with a number of question marks that corresponds
+to the space left over.
+
+Task Icons
+
+In this area you can tell the vehicle to do a task.  A
+description of each of the icons as it goes from left to right,
+top to bottom follows on the next few pages.
+
+The top three icons are the patrol icons.  They range from a small
+area patrol (small circle) to a medium area patrol (medium circle) to
+a large area patrol (big circle).  When a vehicle is told to patrol,
+it will randomly move within the specified patrol area.  This command
+is useful for keeping watch over troublesome areas of the city
+and also having ready-to-use forces already on the street should
+a problem arise.  During a riot this will make the car go to the 
+nearest gathering and disperse it.  To change the specified area that 
+unit is patrolling at, click on the large map.
+
+To the right of these three icons is the drop off prisoners button.
+This will tell the car to drop off any prisoners at the nearest
+courthouse.
+
+On the next row down, the first icon is the general move-to task.
+By clicking on this button and then clicking with the left button
+on the large map or with the right button on the small map, you can 
+move a vehicle to any area on the map.  When the vehicle reaches the 
+point that you clicked on, the vehicle will stop.
+
+The next button tells the vehicle to stop what it is doing.  The
+vehicle, if it is an automobile, will then pull over to the side
+of the street.
+
+The next button tells the unit to train.  When you click on this,
+the unit will proceed to the nearest training center.  If there are
+no training centers, the unit will stop.  When the unit starts 
+training at a training center, its skill will be slowly increased. 
+This task applies to automobiles only.
+
+The next button is the investigate task.  By clicking on this
+button and then clicking on a building in the large map, the unit 
+will go to the building and investigate it.  This command also 
+serves as an assault command when detectives or informants discover 
+a crime-related building.  The unit will go to the building and 
+assault it.  The results of the assault will show in the event 
+screen.  This task applies to automobiles only.
+
+The first button on the bottom row is the stop car task.  By clicking 
+on the button and then clicking on a civilian vehicle in the large map,
+the unit will proceed to stop and search a vehicle.  The results of the
+initial search will show in the event screen.  This task applies to
+automobiles only.
+
+The next button will return the unit to its assigned precinct.
+
+The next button will bring up the change police station screen in
+the miscellaneous area.  With it, you can change the unit's assigned
+police station.
+
+The next button will tell the unit stop and set up a blockade.  Any
+civilian cars that pass by will be stopped and searched. This task
+applies to automobiles only.
+
+The next button is the only button you will see if a unit is
+performing a community service during a passive posture.  To stop
+it from doing community service and return it to your control, click
+on this button.  A public opinion penalty will be incurred for so
+rudely stopping the community service.
+
+Below these buttons are three bars.  A description of these bars
+follows.
+
+Skill
+
+This shows how effective the unit is at doing things.  The
+automobile will do things like search cars, blockade, and fight
+better when the skill bar is bigger.
+
+Morale
+
+This is how enthusiastic the unit is about police work.  High
+salaries can increase morale, while high fatigue or low salaries
+will decrease morale.  When morale gets extremely low, the patrolmen
+or officers that are assigned to the unit will quit.
+
+Fatigue
+
+This statistic is how tired the unit is.  The more the unit is out 
+on the large map, the more fatigued it will get.  When fatigue is 
+high, morale starts to decrease.  When a unit is back at its police 
+station, the fatigue will get lower.
+
+Below this is the speed.
+
+Speed
+
+This is the current speed in miles per hour that the unit is 
+traveling at.  If the unit is civilian and the speed is over 35 
+miles per hour, it is speeding.  If the unit is a police unit, you 
+can change its speed in increments of one by clicking on the plus 
+and minus buttons.  To change its speed in increments of five, click 
+on the plus five and minus five buttons.  By clicking on the number
+itself you can set the vehicle automatically to maximum speed. 
+Beware that civilians don't like to see an officer speeding all the
+time.  All units have a maximum speed.  To see each vehicle's max
+speed, see Appendix A: Vehicles.
+
+Large Map
+
+The large map is where all the action takes place in the game. Here 
+is where you can see your do their various tasks.  You can also see 
+various facets of the city you police.  You can also click on 
+police-related buildings so that you can control them. Notice that 
+this area is only a portion of the overall city.
+
+Small Map
+
+The small map is a view of the whole city.  You can change where
+your large map is positioned at by clicking on the small map.
+Various elements of the city can be seen in different colors.  A
+description of each color is described below:
+
+Light Gray Blocks:  These are the normal streets that all
+automobiles drive on.
+
+Dark Gray Blocks:  These dark gray blocks represent civilian
+buildings.
+
+Light Blue Blocks:  These blocks are police stations.
+
+Dark Green Blocks:  These blocks are other police-related
+buildings.
+
+Light Brown Blocks: These blocks represent undeveloped areas.
+
+Dark Green Dots:  These dots are riot areas.
+
+Yellow Dots:  These dots represent police-controlled Vehicles.
+
+White Dots:  These dots represent civilian vehicles.
+
+Yellow "X":  This X is where the current event happened at.
+
+Red Dots:  Red Dots represent criminal locations as discovered by
+detectives and informants.
+
+Event Screen
+
+This game is for displaying events as they happen in the game.
+These events can range from new 911 calls to the results of
+investigations to the discovery of new criminal locations.  Since
+events can sometimes happen one after another, the event screen
+"queues" them, or keeps them available for a time (usually a
+a couple of game days).  When a new event happens, the event 
+screen automatically switches to it, but you can always change 
+which event you are looking at by clicking on the two arrow keys 
+at the lower right hand of the event screen.  A display of the 
+number of events is also available in the lower right hand of 
+the event screen.  In the top of the event screen, a description 
+of the event is displayed and any details associated with it.  In 
+the lower left hand is a one word description of the type of 
+event.  Some events will also have icons in the lower left hand 
+area.  Here you can conveniently take action to any event that 
+might happen in the event screen from the event screen.  Some 
+icons that have already been described may be showed.  A 
+description of some icons that are unique to the event screen 
+follow on the next page.
+
+One icon, a white square with three arrows point the same
+direction, will automatically scroll the large map to the event
+area so that you can take personal care of the situation.
+
+Another icon that is available when the event is a crime like
+murder or a discovery of a criminal location will automatically
+send the nearest police unit to the event scene.  If no police
+units are displayed, this icon will do nothing.  If the event is a
+911 call, you can also send a car near the event scene and have the
+same effect.  This button is very useful and should be used often.
+
+The icon that shows a officer looking in the back of a trunk is the 
+search button.  When a police car is given the order to search a
+car, the car will do an initial search, and based on skill, report
+his findings.  This button gives the police unit involved
+permission to completely search the civilian unit involved.  Note
+that if the civilian unit is innocent, public opinion will be
+decreased.
+
+Miscellaneous Area
+
+This area is used for tasks that don't fit into other areas.
+These tasks can include deploying units from police stations,
+building new police-related buildings, and buying new vehicles.
+A description of some of the things you can do in the
+miscellaneous area follows.
+
+Building new buildings
+
+A description of the buildings you can build, from left to right,
+follow.
+
+Police Station:  The police station is the mainstay of any
+police force.  It can hold up to four vehicles.  When units are
+at their police station, their fatigue is reduced.  Always make
+sure to have many strategically placed police stations.
+
+Courthouse:  The courthouse is where all the judging of
+criminals takes place.  If you get warnings that your
+courthouses can not handle the criminal load, be sure to build
+more courthouses.  If the courthouses cannot handle the amount
+of criminals, some criminals will be set free causing a big
+increase in the crime rate.
+
+Prison:  The prison is where the criminals are stored for the
+duration of their sentence.  Like the courthouse, always make
+sure their are enough prisons or else criminals will be set
+free.
+
+Rehab Center:  A rehab center, or rehabilitation center, is an
+alternative to the prison.  If rehab centers are unfilled, a
+criminal will automatically be sentenced to one instead of a
+prison.  There they will serve a three day sentence regardless
+of whatever judgement you may have given them.  When they are
+done with their sentence, they will be released and become
+positive influences on society.
+
+Training Center:  A training center is where you can increase
+your individual units' skill.  They will become better
+investigators, fighters, and interrogators.
+
+Community Center:  Community centers try to increase public
+opinion by sponsoring various programs like the Police Athletic
+League and Neighborhood Watch programs.
+
+Police Academy:  A police academy is where new officers and
+patrolmen can be trained.  New patrolmen or officers will be
+enter the force every two days.
+
+To build a new police building, first click on the building
+desired.  Then select a construction site.  Use the two 
+buttons to go through the availible sites.  Notice that there are
+two types of construction sites: large open empty slots, and
+abandoned buildings.  Police stations, community centers, and
+training centers can be built on either type, but courthouses,
+prisons, rehab centers, and police academies can be built only on
+empty slots.  To build the building, click on the Build this icon
+only when the building type fits the right slot.  Below is a
+description of each building and its function.  Small buildings,
+like police stations and community centers, will take one game
+day to build at a cost of 150 "dollars" per day.  Large buildings
+will take two game days to build at a cost of 150 "dollars" per
+day.
+
+Buying new vehicles
+
+The top of this screen is the area and picture of the vehicles you 
+can buy.  Below the picture is the cost of each vehicle.  Below the 
+selection of vehicles is your current amount of money.  Note that 
+you can't buy a vehicle without having the necessary funds.  Below 
+your amount of money are the police station numbers.  A police 
+station number will be black if it has no helicopter pad, and white 
+if it does.  If you want to buy a helicopter, you must place it at a
+police station with a helicopter pad. It will be shaded over if
+the police station is currently filled and cannot except more
+vehicles.  If all the police station numbers are shaded over
+(like above), you cannot buy new vehicles until a new police
+station is built, or until you lose a vehicle.  You must click on
+an unshaded police station number to assign your new unit before
+you can click on the Buy This icon.  Also, after buying your car,
+be aware that you must give it at least one patrolmen before you
+can use it. Below is a description of each vehicle.
+
+The first vehicle is the police motorcycle.  Although it is a
+inexpensive unit, it is limited in that it can only carry one
+personnel member, which makes it less effective at fighting.  It
+can, however, perform effective investigations and other police
+duties.
+
+The second vehicle is the police cruiser.  This is the standard
+police vehicle.  When loaded with four personnel, it makes for an
+effective fighter.  Its relatively slow speed makes it a bit too
+slow for chases.
+
+Which brings us to the third car, the Fastcar.  Although it can
+only carry two people, its high speed of 95 miles per hour makes
+it specially suited to chases.  (REGISTERED VERSION ONLY)
+
+The fourth car is the unmarked car.  It performs almost
+identically to the cruiser, but it is has a much bigger visual
+range.  This is because people do not know the car is in the
+area, and won't hide themselves from police.  Be advised, however,
+because the public does not like the feeling of "secret police"
+that an unmarked patrol force carries with it. (REG. VERSION ONLY)
+
+The fifth vehicle is the van.  Though slow and expensive, when
+equipped with eight officers and M-16's it makes a deadly assault
+force.  Always try to keep one or two trained assault vans on
+hand for attacking any criminal locations.  (REG. VERSION ONLY)
+
+The final vehicle is the helicopter.  Although it can't
+investigate, assault, or train, it has the best visibility of all
+other units and, with its speed, is good for tracking possible
+suspects and keeping watch over the crime ridden areas of the
+city.  (REG. VERSION ONLY)
+
+The Police Station
+
+Here you can deploy units assigned to a police station.  This screen
+is brought up by clicking on a particular police station in the main
+screen.  You can also recall units that have been deployed or change
+the large map location to the deployed units position.
+
+First, you'll notice the top line in the police station area.
+This tells the police station's number and its assigned
+personnel.  If there is less than minimum amount of personnel
+assigned, this area will be shaded over and you will not be able
+to use the police station.
+
+The next area in the police station screen is the four boxes. 
+These represent the assigned vehicles to the station.  If only
+two vehicles are assigned, you will only see two boxes.  In each
+of these boxes are two smaller boxes.  One shows if a vehicle is
+in the police station or not, and the other shows the current
+weapon the vehicle is using.  Below these boxes are is the units
+identification and the personnel assigned to the individual unit.
+
+The area below the boxes is the police station icon row.  You
+will see different icons here based on the boxes above.  If you
+have not clicked on a box, you will see the police station icons.
+These include the two upgrade icons.  When there is a box around
+the icons, the upgrade is not yet at the police station.  The two
+upgrade icons are as follows:
+
+The first button is the crime lab upgrade.  When a police station
+has this upgrade, units assigned to the police station will conduct
+better searches and investigations.
+
+The second button is the helicopter pad upgrade. When a police
+station has this, it can support helicopters.
+
+Next to the upgrade icons is the amount of foot patrols a police
+station has.  Foot patrolling increases a police station's
+visible range, at the expense of patrolmen.  A police station can
+have from zero to eight patrolmen assigned to foot patrols.
+By clicking on plus and minus, patrolmen will be assigned from
+the general patrolmen pool.
+
+The police station icon row will be different when a box is
+clicked on.  If the unit is out of the station, you will get two
+icons: the large map scroll button which will scroll the large
+map to the unit's position, and the return to station button.  If
+the unit is in the station, the first icon is the deploy button
+which will deploy a unit out of the police station.  The other
+icons will change the assigned weapon and the number of officers
+and patrolmen assigned to each unit.  A description of each
+weapon follows on the next page:
+
+The first weapon is the standard police baton. While there is not 
+much public outrage for using it, it is ineffective at almost
+everything except for riots, where it is mediocre.
+
+The second weapon is the standard .45 caliber pistol.  It is
+effective at street encounters, but it is not at building assaults.
+There is some public recourse for using a pistol.  Pistols are not
+effective during riots and there will be tremendous public outcry
+if a unit tries to silence a riot with a pistol.
+
+The third weapon is riot gear.  Riot gear is effective only at 
+stopping riots.
+
+The fourth weapon, the M-16 rifle, is extremely effective at 
+building assaults, but usage in any other area is opinion damaging 
+to say the least.  When M-16's are used during riots, expect a quick 
+end to your career as police chief.
+
+
+
+
+Special Personnel Allocation Screen
+
+There are four special allocation areas where officers and
+patrolmen can be assigned.  Obviously, areas will be more
+effective when more personnel are assigned, and an area will be
+more effective when it has ten officers assigned as opposed to
+ten patrolmen.  The four areas are as follows:
+
+Anti-Crime:  Anti-Crime personnel will generally try to reduce
+the crime rate through various means like going to schools 
+and talking to schoolchildren about crime.
+
+Detective:  Detectives are needed to discover hidden criminal
+locations like crack houses and drug headquarters.  Beware,
+however, detectives will sometime falsely discover a location
+resulting in a lower public opinion for trying to assault an
+innocent location.  Discoveries will show up in the event screen
+and as a red dot in the small map.
+
+Informants:  Informants function exactly like detectives, but
+they are more effective.  Beware, however, because unlike
+detectives, informants stand a chance of getting killed in the
+line of duty.
+
+PR: Public Relations (or PR) personnel try to increase public
+opinion.
+
+Special Options Screen
+
+There are two special options.  By clicking on them, you can
+toggle them on and off.  The first option, taking bribes, has the
+benefit of adding 100 "dollars" to the budget every four days in
+return for an increased crime rate and the chance at getting
+caught.  If you get caught, public opinion will decrease
+drastically.  The second option, appeal for calm, costing 50
+"dollars" per week, lowers the chance of rioting when public
+opinion is low.  Be advised, however, this has no effect on
+public opinion itself.
+Other Building's Screens
+
+You can bring up a police station screen by clicking on a police 
+station in the large map.  By clicking on other police-related 
+buildings, you can likewise bring up information about other 
+buildings. On one building, the police academy, you can change how many
+officers and patrolmen are trained every few days.
+
+Other Screens
+
+Budgeting
+
+The budgeting screen, brought up by clicking on the budget icon
+in the top icon line, is where finances can be controlled.  The
+budget is compounded every 4 days, and it will be brought up
+automatically after each adjustment.  However, you may want to
+change some figures before the end of the budget period.  The
+main method of finance is the security tax.  Since taxing has an
+obvious effect on public opinion, it is beneficial to try and
+keep taxes low.  By clicking on the salary buttons, you can
+adjust your officer and patrolmen salaries.  Remember, 40 per
+year is considered the median for officers and 25 per year is
+considered the median for patrolmen.  Anything less than the
+median will cause morale to drop and anything more will cause
+morale to increase.
+
+Personnel
+
+Here is where you can assign your officers and personnel to your
+police buildings.  Notice the top line.  The officers and
+patrolmen numbers are the numbers of leftover policemen.  These
+can be directly assigned to vehicles and to foot patrols in the
+police station screen.  The numbers next to them is the total
+number of officers and patrolmen.  You are responsible for paying
+each one of them a salary, so it is beneficial to try and keep an
+efficient number of policemen.  To get rid of policemen, click on
+the Fire Patrolmen or the Fire Officer button.  Remember,
+however, they cannot be rehired if you want them back.  The only
+way to get new officers and patrolmen is through police
+academies.  Notice below these numbers is each individual
+building and its policemen "draw".  Notice the red line in the
+area where it shows the assigned policemen.  This red line, in
+both the officer and patrolmen areas, is the minimum number of
+officers and patrolmen a building must have to operate.  Certain
+buildings, like courthouses, training centers, and community
+centers, will have increased effectiveness when there is a
+surplus of personnel assigned.
+CHAPTER 4
+HOW TO PLAY THE GAME
+
+Overall Objective
+
+If you have read Chapter 3, you have probably discovered by now
+that there are two main elements in this game that will require
+your attention in order to win.  These elements are public
+opinion and crime rate.  The difference between winning and
+losing a scenario depends solely on the public opinion and crime
+rate at the end of the scenario's term.  Therefore, this chapter
+will focus on how to better public opinion by raising it and how
+to better the crime rate by lowering it.
+
+At the start of a game
+
+After selecting all the options at the beginning of a game, and
+when you reach the game play area, there are some immediate
+things you will want to change.
+
+First, you will probably want to go to your budget screen and
+check your finances.  Make sure you know how much you can spend
+safely.  Be careful not to go into debt, for if you do, the first
+casualties will be officers and patrolmen because they will not
+be paid.  As a result, their morale will go down, and if this
+debt is sustained, you will have mass quitting of the police
+personnel.  Make sure to lower your taxes to as low as possible
+as high taxes decrease public opinion rapidly.
+
+Second, you will want to analyze where your buildings, and
+especially your police stations, are spread. If this is the "New
+Force" scenario, or if you selected a low level of pre-built
+municipal buildings, or if there is a large area devoid of a
+police station, you will want to consider building new police-
+related buildings.  Try to give police stations the choice
+construction sites, because except for perhaps training areas,
+only their position on the map matters.
+
+Third, if the vehicle stock (the number of vehicles assigned to
+each police station before the game) is low, start buying
+vehicles according to budget.  Evaluate your needs and buy
+accordingly: motorcycles are good cheap units, cruisers are good
+all around units and in the registered version,  helicopters are 
+the best at patrolling areas and keeping track of possible 
+criminals, vans are good at assaulting buildings, and try to throw 
+in a fastcar or two to respond quickly to crimes and chases.
+
+If this is the "Shortage" scenario, make sure to go to the
+personnel screen and assign personnel to only the essential
+buildings.  In any other scenario assign excess personnel to
+courthouses, training centers, police academies, and community
+centers.  Courthouses will be able to handle more cases.
+Training centers will train faster.  Police academies can train
+more recruits.  Community centers will effect public opinion
+better.
+
+You will probably now want to evaluate your special personnel
+options.  If this is a hard difficulty level, it will probably be
+your best bet to assign more personnel to detective than to
+informant because informants are easily killed in the hard
+difficulty levels.  As for Anti-Crime and PR, you will probably
+want to assign the maximum number of people that you can to
+these areas.  In the other special options screen, you may want
+to consider taking bribes if your money is low and lots of
+upgrades to your police force are needed or if you have a high
+public opinion and can afford the loss of support should you be
+discovered.
+
+Finally, start patrols.  First deploy helicopters to strategic
+areas and use the visual mapmode to try to blanket the map with
+police visual coverage.  This increases the possibility of
+randomly spotting crimes in progress and increases speed when
+reacting to 911 calls.
+
+Should a crime happen...
+
+There are three types of crimes in To Serve and To Protect: 911
+calls which include heavy crimes like murder and rape, visual
+calls which include light crimes like speeding and vandalism plus
+the heavy crimes, and rare crimes which cannot you cannot control
+the arresting of but you must judge on.  When a 911 call happens,
+manually take control and send all the nearest units, especially
+helicopters.  Try to track all the civilian vehicles in the
+immediate area of the crime.  Meanwhile, send a car with a high
+skill to interrogate the victim.  If the car has a high skill or
+is lucky, then it will tell you the exact car that perpetrated the
+crime.  If you find only that the victim escaped by car, stop the
+most likely cars which you think may have committed the crime.  If
+you find out nothing from the interrogation, try again with the
+same unit or one with more skill.  When it comes to stopping suspect
+cars, try to stop the car with a unit with a high skill so that a
+search will be successful.  Make sure that the stopping vehicle
+has enough room to hold any criminals that the civilian vehicle
+may have.  Also, try not to send a motorcycle or another vehicle
+with few personnel, because should the criminal try to fight it out,
+the single motorcycle cop will be dead.  Try to have a fastcar in
+the area, because if the criminal tries to escape by speed, you will
+easily be able to stop him.  Finally, make sure the vehicle that is
+being pursued is kept in sight or else pursuing vehicles will lose
+their track of the vehicle and stop.
+
+Assaulting Criminal Locations
+
+At the beginning of the game, depending on your difficulty level,
+there are a number of "criminal locations" that are hidden to
+you.  These include crack houses, drug labs, and drug HQs.  The
+only way to uncover these locations is by assigning detectives
+and informants.  When the detectives and informants discover a
+criminal location, plans for an assault should be made.  Beware,
+however, because detectives and informants sometimes give false
+reports.  To an assault a building, always use units that are
+armed with machine guns.  Also, fill the assault vehicles to
+their personnel capacity.  Finally, try to use vehicles with a
+high skill level.  A van with eight officers armed with machine
+guns makes an excellent assault vehicle.  To tell a unit to
+assault, click on the investigate icon (see page 18) and then
+click on the building or use the send nearest button on the 
+message that informs you of the location.
+
+Judging
+
+NOTE: Prison terms will be in days (ie: 5years=5days) for reasons
+of gameplay.
+How you judge a criminal depends on your ratio of rehab centers
+to jails.  If there are a lot of jails, try to go for a long
+prison sentence.  If you give the criminal a short sentence that
+will end before your term as police chief is up, the criminal
+will be released and almost certainly become a negative effect on
+society (i.e. crime rate will increase).  If you have a lot of
+rehab centers and they are empty, crime sentences will
+automatically be set to three days regardless of the sentence
+you give and the criminal will end up having a positive effect on
+society.  If you have hardly any prison space or do not want to
+build new jails, give the criminals the smallest sentence
+possible. No matter what you do, however, if the public is not
+indifferent to a crime and wants either a heavy or light
+sentence, do what the public wants.  It is not worth the public
+opinion loss and if you go extremely against the public, public
+opinion could be lowered enough that riots break out.  Just look
+at what the whole Rodney King affair did to Los Angeles in 1992.
+
+Riots
+
+Should riots unfortunately break out, immediately send all your
+units home and outfit them with riot gear.  Send them back out
+and give them the patrol command.  During riots, the patrol
+command will automatically go to the nearest riot area and spend
+time dispersing it.
+
+Posture
+
+If your public opinion is low, you should almost always have your
+posture in passive.  Try not to interrupt police units when they
+are performing community service missions, as this tends to lower
+public opinion ("Those darned police offered my son a ride home,
+but dropped him off in the middle of town!").  If you have the
+public opinion to spare, set the posture to a normal or
+aggressive posture.  The police always work better when they are
+unconstrained.
+
+APPENDIX A
+
+VEHICLES
+
+Police Vehicles
+
+Vehicle Name      ³ Cost ³ Maint. Cost ³  Max. Crew  ³ Max. Speed
+ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄ
+Police Motorcycle ³  10  ³  1 per week ³      1      ³   60 mph
+ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄ
+Police Cruiser    ³  20  ³  2 per week ³      4      ³   60 mph
+ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄ
+Police Fastcar    ³  30  ³  3 per week ³      2      ³   95 mph
+ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄ
+Police Unmarked   ³  20  ³  2 per week ³      4      ³   60 mph
+ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄ
+Police Van        ³  50  ³  2 per week ³      8      ³   50 mph
+ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄ
+Police Helicopter ³ 100  ³  5 per week ³      2      ³   99 mph
+ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÁÄÄÄÄÄÄÁÄÄÄÄÄÄÄÄÄÄÄÄÄÁÄÄÄÄÄÄÄÄÄÄÄÄÄÁÄÄÄÄÄÄÄÄÄÄÄÄ
+                                            
+Civilian Vehicles         
+
+Vehicle Name      ³ Max. Speed ³ ³ Vehicle Name    ³ Max. Speed
+ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄ´ ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄ
+Ford Taurus       ³   60 mph   ³ ³ Toyota Camry    ³   60 mph
+ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄ´ ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄ
+Ford Ranger       ³   60 mph   ³ ³ Toyota Tercel   ³   50 mph
+ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄ´ ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄ
+Ford Festiva      ³   50 mph   ³ ³ Nissan Sentra   ³   50 mph
+ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄ´ ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄ
+Ford Escort       ³   55 mph   ³ ³ Nissan Truck    ³   60 mph
+ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄ´ ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄ
+Ford Mustang      ³   90 mph   ³ ³ Buick Skylark   ³   60 mph
+ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄ´ ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄ
+Chevy S-10        ³   60 mph   ³ ³ Cadillac        ³   50 mph
+ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄ´ ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄ
+Chevy Beretta     ³   70 mph   ³ ³ Dodge Spirit    ³   60 mph
+ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄ´ ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄ
+Chevy Camaro      ³   90 mph   ³ ³ Olds. Cutlass   ³   60 mph
+ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄ´ ÃÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄ
+Chevy Corvette    ³   95 mph   ³ ³ Toyota Truck    ³   60 mph
+ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÁÄÄÄÄÄÄÄÄÄÄÄÄÙ ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÁÄÄÄÄÄÄÄÄÄÄÄÄÄ
+APPENDIX B
+DIFFICULTY LEVELS
+
+Level ³  Strt Money* ³  Strt Crime Rate*  ³  Strt Public Opinion*
+ÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+  1   ³     1000     ³        20%         ³            80%
+  2   ³     1000     ³        24%         ³            76%
+  3   ³     900      ³        26%         ³            74%
+  4   ³     850      ³        30%         ³            70%
+  5   ³     800      ³        40%         ³            60%
+  6   ³     750      ³        50%         ³            50%
+  7   ³     700      ³        55%         ³            45%
+  8   ³     600      ³        60%         ³            40%
+  9   ³     500      ³        65%         ³            35%
+ 10   ³     400      ³        70%         ³            30%
+ 11   ³     250      ³        75%         ³            25%
+ 12   ³     200      ³        80%         ³            20%
+ÄÄÄÄÄÄÁÄÄÄÄÄÄÄÄÄÄÄÄÄÄÁÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÁÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+
+
+Level ³ Riot Threshold ³  Visibility Factor ³  Upgrade Cost
+ÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+  1   ³12% of p. opin. ³        35          ³      100
+  2   ³13% of p. opin. ³        35          ³      100
+  3   ³14% of p. opin. ³        30          ³      105
+  4   ³15% of p. opin. ³        28          ³      115
+  5   ³16% of p. opin. ³        25          ³      125
+  6   ³17% of p. opin. ³        24          ³      137
+  7   ³18% of p. opin. ³        22          ³      150
+  8   ³19% of p. opin. ³        22          ³      175
+  9   ³19% of p. opin. ³        20          ³      200
+ 10   ³21% of p. opin. ³        18          ³      237
+ 11   ³22% of p. opin. ³        16          ³      250
+ 12   ³25% of p. opin. ³        15          ³      300
+ÄÄÄÄÄÄÁÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÁÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÁÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+
+* These numbers are changeable in the variants section.
+
+APPENDIX C
+CHEATS
+
+The registered version now includes some cheats during the game to
+help you along.  To use them, just type the cheat's word during the
+game.  If you misspell it, wait a little for it to clear.
+
+MONEY - Adds 100 "dollars".
+OPN   - Increases public opinion
+CRAT  - Decreases crime rate
+RIOT  - Starts riots
+FCR   - Adds five officers
+PMAN  - Adds five patrolmen

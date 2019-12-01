@@ -1,0 +1,103 @@
+THE MANUAL
+
+Poor proofreading on my part caused the manual to be stupid at times
+and wrong at others.  I would like to make a clarification: there is
+no map editor for the registered version.  In the registered version
+you can only save a map that you like for future use and change the
+amounts of stuff in it.  I sincerely apologize for any trouble this
+may have caused.
+
+CHANGES V1.0 to V1.01
+
+Version 1.01 of To Serve And To Protect is purely a maintinence release.
+No new features have been added.
+
+CHANGES V1.01 to V1.1
+
+First off, many more bugs have hopefully been fixed.  This includes:
+
+    .  Random Events now work.
+
+    .  The "slumming" effect of cities is now much more pronounced.
+       Mapmode two, the one with the gun on it, will now show the slum
+       areas of the cities.  Crimes are much more likely to happen in
+       a slum than in a normal area.  See the manual for more details.
+
+    .  Vehicle to Vehicle combat is much more likely.
+
+    .  Combat is much, much slower.  This allows you to reinforce as
+       necessary.
+
+    .  Time in Step, 30 sec. and 1 minute mode now goes by at 1 hour
+       intervals.  The other time modes go by at 10 minute intervals.
+
+    .  If a police car and a civilian car get in combat it will tell you
+       in the warnings box.
+
+    .  Saving should now work right.
+
+    .  Rioting thresholds are 10% higher.
+
+    .  Various tweakings:  Fatigue accumlates more slowly when a unit
+       is on a training mission.  This is because police officers like
+       to be trained.  Also, unit morale is decreased when public
+       opinion is at a higher point: before it was 15% and now it is
+       at 35%.  Morale still increases at the high threshold of 85%.
+
+       Also, public opinion is harder to maintain.  Public service
+       missions have more effect.  Otherwise the passive posture has
+       less effect and increases the crime rate.  The agressive posture
+       has leffect and decreases the public opinion.
+
+    .  The effect of taxes is now based on the last tax periods tax rate.
+       In the beginning, this tax rate is 5%.  Taxes have more of an
+       effecdt on opinion.
+
+    .  When it rains, changing the screen no longer causes it to fill
+       with rain.
+
+    .  The stupid car-sitting-in-the-intersection with no speed is fixed.
+       (Hopefully!).
+
+    .  M-16's have less effect.  Before a cop with an M-16 was invincible.
+       Now they are merely superb.
+
+    .  Prisoners dropped off at a courthouse now go to a jail.
+
+    .  You can no longer click the right mouse button on the small map.
+       I did this because I never used it and always wondered why step
+       never turned off when the cursor was over the small map.  If
+       you feel otherwise, drop me a line.
+
+    .  The music option has been taken out of the menu, completing
+       what I started in version 1.01.
+
+Some features have also been added:
+
+    .  By clicking on the time and date, you can toggle between two
+       time modes: the normal time mode you are used to and the Time
+       to go mode which shows how many days are left in the scenario.
+
+    .  Police officers now have their unit ID displayed on the large
+       map.  You can turn this off or on by pressing "F4".
+
+    .  Two new special activities have been added: Neighborhood Watch
+       and TV Commercials.  Both take about 48 dollars for every
+       budget period.  Neighborhood Watch will decrease crime while
+       TV Commercials will increase public opinion.
+
+    .  There are now more cars on the screen.  For registered owners,
+       the riot option has been replaced with the ability to control
+       the amount of civilian cars on the screen.  Low limits the
+       number of civilians to 15.  Medium limits the number to 35.
+       High limits the number to around 60-70 (depending on the
+       number of police vehicles in the scenario).  The shareware
+       version is set to low.
+
+    .  You can now select a police station by hitting its ID number
+       on the keyboard.  For example, when you hit a 1 the map will
+       center around Police Station 1 and it will automatically be
+       selected.
+
+    .  You can now select a mapmode by hitting F1 for normal, F2
+       for area crime rates and F3 for visual.
