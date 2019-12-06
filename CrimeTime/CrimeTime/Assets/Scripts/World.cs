@@ -7,7 +7,6 @@ public class World : MonoBehaviour {
     public Sprite tileVisualDefault;
 
 	Tile[,] tiles;
-    Sprite[,] tileVisuals;
 
 	int width;
 
@@ -30,12 +29,10 @@ public class World : MonoBehaviour {
 		this.height = height;
 
 		tiles = new Tile[width, height];
-        tileVisuals = new Sprite[width, height];
 
 		for (int x = 0; x < width; x++) {
 			for (int y = 0; y < height; y++) {
 				tiles [x, y] = new Tile(this, x, y);
-                tileVisuals[x, y] = tileVisualDefault;
 			}
 		}
 
@@ -130,13 +127,5 @@ public class World : MonoBehaviour {
 		return tiles [x, y];
 	}
 
-    public GameObject GetGameObjectAt (int x, int y)
-    {
-        if (x > width || x < 0 || y > height || y < 0)
-        {
-            Debug.LogError("Tile (" + x + "," + y + ") is out of range.");
-            return null;
-        }
-        return tileVisuals[x, y];
-    }
+   
 }

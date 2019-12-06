@@ -13,6 +13,8 @@ MonoImporter:
   - building: {fileID: 1947395253166764, guid: 19e60dd17384bb14eb3990bff73d99d2, type: 3}
   - building2: {fileID: 1010282156889572, guid: 1731f73290e40b14b80adf47bc60db95,
       type: 3}
+  - tile_go: {fileID: 4476059349159139465, guid: 9f340073d1816d544b7fe64f1b727658,
+      type: 3}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 
