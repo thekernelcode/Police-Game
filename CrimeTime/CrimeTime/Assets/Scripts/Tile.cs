@@ -3,15 +3,14 @@ using System.Collections.Generic;
 using UnityEngine;
 using System;
 
-public class Tile {
+public class Tile : MonoBehaviour {
 
     // We can add to this at a later date.  This is just an enum of available types to get started.
-    public enum TileType {  Default, Empty, Building, Building2, Crime, Road }; 	
-
+    public enum TileType {  Default, Empty, Building, Building2, Crime, Road };
 
 	TileType type = TileType.Default;
 
-	Action<Tile> cbTileTypeChanged;					// Set action to accept functions called cbTileTypeChanged with variable type Tile.
+	// Action<Tile> cbTileTypeChanged;					// Set action to accept functions called cbTileTypeChanged with variable type Tile.
 
 	public TileType Type {
 		get {
@@ -21,8 +20,8 @@ public class Tile {
 			TileType oldType = type;
 			type = value;
 
-			if(cbTileTypeChanged != null && oldType != type)	// We only need to redraw the tile if is actually different to what is was before.
-				cbTileTypeChanged(this);				// Call the call back and let things know we've changed.
+			//if(cbTileTypeChanged != null && oldType != type)	// We only need to redraw the tile if is actually different to what is was before.
+			//	cbTileTypeChanged(this);				// Call the call back and let things know we've changed.
 		}
 	}
 
@@ -52,16 +51,15 @@ public class Tile {
 		this.world = world;
 		this.x = x;
 		this.y = y;
-
 	}
 
-	public void RegisterTileTypeChangedCallback (Action<Tile> callback){       	// Call this function with another function as the type.  
-																				// This sets new function to cbTileTypeChanged
-		cbTileTypeChanged += callback;											// Multiple functions can be added to 'array of Actions'
-	}
+	//public void RegisterTileTypeChangedCallback (Action<Tile> callback){       	// Call this function with another function as the type.  
+	//																			// This sets new function to cbTileTypeChanged
+	//	cbTileTypeChanged += callback;											// Multiple functions can be added to 'array of Actions'
+	//}
 
-	public void UnRegisterTileTypeChangedCallback (Action<Tile> callback){      // Call this function with another function as the type.  
-																				// This sets new function to cbTileTypeChanged
-		cbTileTypeChanged -= callback;											// Multiple functions can be removed from 'array of Actions'
-	}
+	//public void UnRegisterTileTypeChangedCallback (Action<Tile> callback){      // Call this function with another function as the type.  
+	//																			// This sets new function to cbTileTypeChanged
+	//	cbTileTypeChanged -= callback;											// Multiple functions can be removed from 'array of Actions'
+	//}
 }

@@ -1,10 +1,10 @@
 fileFormatVersion: 2
 guid: 641c17efab39f4546bae789f16701cfe
-timeCreated: 1511360261
-licenseType: Free
 MonoImporter:
+  externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - defaultSprite: {fileID: 21300000, guid: e37ff2648c47aef45a68cb168929f30e, type: 3}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 
