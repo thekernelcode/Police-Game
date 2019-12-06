@@ -10,6 +10,8 @@ public class Tile : MonoBehaviour {
 
 	TileType type = TileType.Default;
 
+    public MeshRenderer visual;
+
 	// Action<Tile> cbTileTypeChanged;					// Set action to accept functions called cbTileTypeChanged with variable type Tile.
 
 	public TileType Type {
@@ -47,8 +49,8 @@ public class Tile : MonoBehaviour {
 
 											
 
-	public Tile ( World world, int x, int y ) {		// Constructor for tile.  Tile must be passed world it is in and its location.
-		this.world = world;
+	public void GameObject (int x, int y ) {		// Constructor for tile.  Tile must be passed world it is in and its location.
+		
 		this.x = x;
 		this.y = y;
 	}

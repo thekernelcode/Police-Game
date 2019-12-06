@@ -110,7 +110,7 @@ public class World : MonoBehaviour {
         {
 			tiles [crimePositionX, crimePositoionY].Type = Tile.TileType.Crime;
 
-			Debug.Log ("Crime in Progress.");
+			Debug.Log ("Crime in Progress at " + crimePositionX + ", " + crimePositoionY);
 		}
 
 	}
@@ -125,5 +125,6 @@ public class World : MonoBehaviour {
 		return tiles [x, y];
 	}
 
+   
    
 }
