@@ -3,9 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class World : MonoBehaviour {
-
-    public Sprite tileVisualDefault;
-
+    
 	Tile[,] tiles;
 
 	int width;
